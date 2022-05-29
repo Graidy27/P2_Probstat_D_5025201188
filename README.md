@@ -102,7 +102,8 @@ Foto hasil untuk soal c-f:
 - Menjalankan program `batas = qt(p = 0.025, df = 2, lower.tail = FALSE)` untuk mendapatkan batas.
 
 ### d
-- Menghitung secara manual dan menyimpan nilai t-value ke dalam variabel tValue
+- Menghitung secara manual dan menyimpan nilai t-value ke dalam variabel tValue menggunakan rumus seperti gambar berikut:
+![](pict/rumus.jpg)
 
 ### e
 Menolak H0 jika tValue > batas atau tValue < -batas
