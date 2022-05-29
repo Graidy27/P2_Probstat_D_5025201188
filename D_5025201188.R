@@ -79,5 +79,5 @@ tValue
 ### Menolak H0 jika tValue > batas atau tValue < -batas
 
 ## F
-### Karena nilai t_value berada diantara batas, maka H0 diterima
+### Karena nilai tValue berada diantara batas, maka H0 diterima
 ### H0: "Rata - rata saham di kota Bandung sama dengan rata rata saham di kota Bali"
