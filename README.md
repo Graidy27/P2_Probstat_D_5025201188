@@ -103,7 +103,7 @@ Foto hasil untuk soal c-f:
 
 ### d
 - Menghitung secara manual dan menyimpan nilai t-value ke dalam variabel tValue menggunakan rumus seperti gambar berikut:
-![](pict/rumus.jpg)
+![](pict/rumus.jpeg)
 
 ### e
 Menolak H0 jika tValue > batas atau tValue < -batas
